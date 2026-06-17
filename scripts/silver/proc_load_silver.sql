@@ -19,7 +19,6 @@ Usage Example:
 */
 
 
-
 CREATE OR ALTER PROCEDURE silver.load_silver AS
 BEGIN
     DECLARE @start_time DATETIME , @end_time DATETIME;
